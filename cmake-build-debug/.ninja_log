@@ -1,3 +1,5 @@
 # ninja log v6
 3	270	7515520446268814	CMakeFiles/testv3.dir/main.cpp.obj	c769cd858e29abaa
 272	321	7515520448954349	testv3.exe	83b51e21edbc754c
+6	268	7515521906977316	CMakeFiles/testv3.dir/main.cpp.obj	c769cd858e29abaa
+268	323	7515521909598682	testv3.exe	83b51e21edbc754c
